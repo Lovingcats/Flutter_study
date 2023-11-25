@@ -13,4 +13,6 @@ void main() {
   print(dynamicVariable); //null
   dynamicVariable = "Success!";
   print(dynamicVariable); //Success!
+
+  //동적 타이핑을 사용하면 여러가지 타입 값을 계속 재할당 할 수 있음
 }
