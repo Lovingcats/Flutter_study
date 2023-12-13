@@ -6,8 +6,7 @@
 
 
 ## 📗 리스트
-- [01 data_types_example](https://github.com/Lovingcats/Flutter_study/tree/main/Dart/data_types_example)
+- [01 typing__example](https://github.com/Lovingcats/Flutter_study/tree/main/Dart/typing__example)
 - [02 operation_example](https://github.com/Lovingcats/Flutter_study/tree/main/Dart/operation_example)
-- [03 typing__example](https://github.com/Lovingcats/Flutter_study/tree/main/Dart/typing_example)
-
+- [03 data_types_example](https://github.com/Lovingcats/Flutter_study/tree/main/Dart/data_types_example)
 
