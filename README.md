@@ -20,8 +20,8 @@
 ### Week 1-2(1~35): Dart 언어 및 기본 개념 학습(지속해서 업데이트 예정)
 
 - [x] **Dart 언어 기초**
-  - 동적 및 정적 타이핑의 차이 이해 [링크](https://lovingcats.tistory.com/5)
-  - 변수, 상수, 자료형 등의 기본 문법 학습 [링크](https://lovingcats.tistory.com/6) [링크](https://lovingcats.tistory.com/7)
+  - 동적 및 정적 타이핑의 차이 이해 [정적타이핑 개발이란?](https://lovingcats.tistory.com/5)
+  - 변수, 상수, 자료형 등의 기본 문법 학습 [변수](https://lovingcats.tistory.com/6) [연산](https://lovingcats.tistory.com/7)
   - 예제: 간단한 계산기 함수 작성
 
 - [ ] **Dart의 고급 기능**
