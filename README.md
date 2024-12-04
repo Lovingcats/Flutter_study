@@ -14,7 +14,7 @@
 
 ## 🚀 목표
 
-퇴근하고 Flutter애 대한 [블로그](https://velog.io/@lovingcats/Flutter-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0) 쓰면서 다시 정리해보자 💡
+퇴근하고 Flutter애 대한 [블로그](https://lovingcats.tistory.com/) 쓰면서 다시 정리해보자 💡
 ## 📅 계획
 
 ### Week 1-2(1~35): Dart 언어 및 기본 개념 학습(지속해서 업데이트 예정)
